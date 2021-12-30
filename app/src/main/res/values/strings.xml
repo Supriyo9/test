@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Engineer Guys</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/robotobold</string>
+    <string name="light" tools:ignore="ReferenceType">@font/robotolight</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/robotoregular</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_clg"> The college was established in 2013 by the Government of Jharkhand and managed by Techno India via a public-private partnership and was formerly known as Techno India Chaibasa and Government Engineering College Chaibasa.[1][2][3][4] The college received a three-year joint financial grant from the World Bank and Ministry of Human Resource Development, Government of India in 2017 under the project named Technical Education Quality Improvement Programme (Phase III).[5][6] This college is a remote center of Indian Institute of Technology Bombay under the National Mission on Education through ICT (NMEICT).</string>
+</resources>

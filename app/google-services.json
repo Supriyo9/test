@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385869081222",
+    "firebase_url": "https://engineer-guys-default-rtdb.firebaseio.com",
+    "project_id": "engineer-guys",
+    "storage_bucket": "engineer-guys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385869081222:android:ea2e0682213dd92f337f07",
+        "android_client_info": {
+          "package_name": "com.techov8.engineerguys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385869081222-2h87i1hv67vavv92ean6c9pspl1arfpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2A7K0poo8GDeVV8bmT7TY3E8532dgxgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385869081222-2h87i1hv67vavv92ean6c9pspl1arfpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

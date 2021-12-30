@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment android:id="@+id/navigation_home"
+        android:name="com.techov8.engineerguys.ui.AskQuestion.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home"/>
+
+    <fragment android:id="@+id/navigation_notice"
+        android:name="com.techov8.engineerguys.ui.Solution.SolutionFragment"
+        android:label="Notice"
+        tools:layout="@layout/fragment_notice"/>
+
+    <fragment android:id="@+id/navigation_faculty"
+        android:name="com.techov8.engineerguys.ui.Jobs.JobFragment"
+        android:label="Faculty"
+        tools:layout="@layout/fragment_faculty"/>
+<!--
+    <fragment android:id="@+id/navigation_gallery"
+        android:name="com.techov8.engineerguys.ui.Ask_Questions.AskQuestionFragment"
+        android:label="Gallery"
+        tools:layout="@layout/fragment_askquestion"/>
+
+    <fragment android:id="@+id/navigation_about"
+        android:name="com.techov8.engineerguys.ui.Profile.ProfileFragment"
+        android:label="About"
+        tools:layout="@layout/fragment_profile"/>
+
+        -->
+
+</navigation>
